@@ -61,7 +61,7 @@ This project is a Streamlit-based application that allows users to upload multip
 2. Ask questions related to the content of the PDFs.
 3. Receive responses based on the documents using the conversational retrieval chain.
 
-## SEE IT IN ACTION -> https://mutliple-pdfschatbot.streamlit.app
+## SEE IT IN ACTION -> https://mutliple-pdfs-chatbot.streamlit.app
 
 ## Folder Structure
 
