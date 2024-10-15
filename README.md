@@ -55,6 +55,14 @@ This project is a Streamlit-based application that allows users to upload multip
 4. **Vector Store**: The text chunks are embedded using `OpenAIEmbeddings` and stored in a FAISS vector store for fast retrieval.
 5. **Conversational Chain**: A conversational retrieval chain is established, allowing users to ask questions, with responses based on the uploaded documents.
 
+## Usage
+
+1. Upload PDF files from the sidebar.
+2. Ask questions related to the content of the PDFs.
+3. Receive responses based on the documents using the conversational retrieval chain.
+
+## SEE IT IN ACTION -> https://mutliple-pdfschatbot.streamlit.app
+
 ## Folder Structure
 
 ```bash
@@ -66,11 +74,3 @@ This project is a Streamlit-based application that allows users to upload multip
  ┣ 📜app.py
  ┣ 📜requirements.txt
  ┗ 📜README.md
-
-## Usage
-
-1. Upload PDF files from the sidebar.
-2. Ask questions related to the content of the PDFs.
-3. Receive responses based on the documents using the conversational retrieval chain.
-
-## SEE IT IN ACTION -> https://mutliple-pdfschatbot.streamlit.app
